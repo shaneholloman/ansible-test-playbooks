@@ -4,4 +4,5 @@ name: indirect_host_counting
 version: 0.0.1
 description: Test collection for indirect node counting
 authors: ['AWX Project Contributors']
+readme: README.md
 dependencies: {}
